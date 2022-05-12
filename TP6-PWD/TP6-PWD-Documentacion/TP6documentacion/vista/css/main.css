@@ -1,0 +1,79 @@
+/* Colores de Texto */
+.color-orange {
+    color: #ff8a00;
+}
+.color-lg {
+    color: #8899a8;
+}
+
+.color-dg {
+    color: #5c6975;
+}
+
+.color-dsktg {
+    color: #3b454e;
+}
+
+.color-bordg {
+    color: #d3dce4;
+}
+
+/* Font */
+.fw-500 {
+    font-weight: 500;
+}
+
+.font-main-title {
+    font-size: 48px;
+    color: #3b454e;
+}
+
+.fs-14 {
+    font-size: 14px;
+}
+
+/* Letter Spacing */
+.letter-spacing-titulo {
+    letter-spacing: 1px;
+}
+
+/* Estilo Titulos/subtitulos/Nav */
+.titulo {
+    letter-spacing: 1px;
+    padding-bottom: 8px;
+    font-size: 12px;
+}
+
+.padding-sub_titulos {
+    padding: 8px 0;
+}
+
+.active {
+    color: #ff8a00;
+}
+
+.box-shadow-nav {
+    box-shadow: 0px 4px 10px rgb(0 0 0 / 5%);
+}
+
+.padding-nav-tit {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+/* Links */
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ff8a00;
+}
+
+.mb-titulo {
+    margin-bottom: 0.5rem;
+}
+
+.contenido-principal {
+    line-height: 1.8rem;
+}
